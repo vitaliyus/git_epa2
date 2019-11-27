@@ -10,3 +10,5 @@ Du (du kannst, du kannst, du kannst, du kannst)
 Ich (ich weiß, ich weiß, ich weiß, ich weiß)
 Wir (wir sind, wir sind, wir sind, wir sind)
 Ihr (ihr bleibt, ihr bleibt, ihr bleibt, ihr bleibt)
+
+1st commit feature
